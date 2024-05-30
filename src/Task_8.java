@@ -17,9 +17,6 @@ public class Task_8 {
         // 2022 05 20
         // 2022 05 23
 
-
-        //Возник вопрос нужно ли и если, да то как кастовать объект к LocalDate.
-
         System.out.println("Введите дату (yyyy mm dd) с которой вы хотите получить описание снимка");
         Scanner scanner = new Scanner(System.in);
 
